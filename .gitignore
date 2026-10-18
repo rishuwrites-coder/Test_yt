@@ -1,1 +1,4 @@
-.venv/\n__pycache__/\noutput/*\n!output/.gitkeep\n
+.venv/
+__pycache__/
+output/*
+!output/.gitkeep
