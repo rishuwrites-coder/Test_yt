@@ -1,0 +1,1 @@
+feedparser>=6.0.11\nedge-tts>=7.0.0\nPillow>=10.0.0\n
